@@ -7,7 +7,7 @@ void indexAllOcc(int[], int, int);
 int pos_occ_rec1(int T[], int n, int x, int d);
 int pos_occ_rec2(int[], int, int);
 int dichotomy(int[], int, int);
-recherche_dicho_rec(int[], int, int, int);
+int recherche_dicho_rec(int[], int, int, int);
 
 int main() {
     printf("**************************** TP 1 ****************************\n");
